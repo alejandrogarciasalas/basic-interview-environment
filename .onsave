@@ -1,0 +1,9 @@
+LISTENER:
+    -
+        CMD : python3 tests.py
+
+        OUT : right
+
+        WATCH : "*.py"
+
+        TIMEOUT : 5000
