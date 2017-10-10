@@ -1,6 +1,5 @@
 LISTENER:
-    -
-        CMD : python3 tests.py
+    -	CMD : python3 tests.py
 
         OUT : right
 
